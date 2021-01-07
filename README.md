@@ -10,7 +10,7 @@ Spring 2021
 
 Instructor [Dr. Tracy B](https://scse.d.umn.edu/mathematics-statistics-department/faculty-staff/dr-tracy-bibelnieks)  
 
-GTA Kim Mandery
+Instructor Kim Mandery
 
     
 <hr>
