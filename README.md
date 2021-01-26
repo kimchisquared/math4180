@@ -1,6 +1,4 @@
 ## MATH 4180
-<img src="img/logo.png" alt="MATH 4180 logo with a purple and pink pie chart surrounded by atom-like rings" width="150" align = "right"/>
-
 
   
 ### Industrial Problem Solving
@@ -8,17 +6,16 @@ University of Minnesota Duluth
 
 Spring 2021
 
-Instructor [Dr. Tracy B](https://scse.d.umn.edu/mathematics-statistics-department/faculty-staff/dr-tracy-bibelnieks)  
+Instructor Dr. Tracy Bibelnieks
 
 Instructor Kim Mandery
 
     
 <hr>
 
-This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices. 
+This class offers students the opportunity to learn the art and statistical techniques of data science with a primary focus on data analytics. The in-depth and semester long project used in this course is designed to give students breadth and depth of experience that mirrors what they will experience in the real world as a data science professional. A major portion of this course will be learning and applying statistical and computational software and tools, and techniques to answer the data question of the project.
 
 Course website is hosted at [https://math4180.netlify.app/](https://math4180.netlify.app/). 
 
 <hr>
 
-**Students** if you see anything missing or broken links please feel free to file an issue in this repo or let me know. Note that this is a public repo so if you create an issue it would be publicly be available. If you are concerned about privacy you can directly email me.
